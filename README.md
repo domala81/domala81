@@ -62,8 +62,8 @@ class Nihar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=domala81&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domala81&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=domala81&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domala81&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="Top Languages" height="160" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=domala81&theme=github-compact&hide_border=true&area=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution graph" width="95%" />
 
