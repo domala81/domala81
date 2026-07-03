@@ -3,15 +3,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=560&color=58A6FF&lines=From+ingestion+to+inference.;I+build+pipelines+that+feed+models+%E2%80%94+and+AI+that+ships.;status%3A+accepting_missions" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=560&color=58A6FF&lines=From+ingestion+to+inference.;I+build+pipelines+that+feed+models.;status%3A+accepting_missions" alt="Typing animation" />
 
 </div>
 
 ## 🙋‍♂️ About me
 
-I'm a **Data Engineer at Capital One**, where my pipelines ingest **4.2B+ records a day** — the kind of scale where "it works on my machine" is not a sentence anyone says. My lane is the full journey **from ingestion to inference**: building the data infrastructure that feeds models, and the AI systems that actually ship.
+I'm a Data Engineer at **Capital One**. My pipelines ingest **4.2B+ records a day**, so "it works on my machine" stopped being a useful sentence a while ago. I work across the full journey from ingestion to inference: the data infrastructure that feeds models, and the AI systems built on top of it.
 
-Before this: **MS in Data Science at George Washington University** (GPA 3.97, Global Leaders Award, and a Datathon trophy 🏆), **BTech from IIT Kharagpur**, and internships at **Samsung R&D** and **iQuanti**. Along the way I picked up an **IEEE INDICON Best Paper Award** for inventing a new CNN pooling method — proof that I occasionally leave the pipeline to poke at the math underneath.
+Before this, I finished my **MS in Data Science at George Washington University** (GPA 3.97, Global Leaders Award, and a Datathon win 🏆), did my BTech at **IIT Kharagpur**, and interned at **Samsung R&D** and **iQuanti**. Somewhere in there I also picked up an **IEEE INDICON Best Paper Award** for a new CNN pooling method. Every now and then I like to leave the pipeline and poke at the math underneath.
 
 ```python
 class Nihar:
@@ -23,19 +23,19 @@ class Nihar:
         self.weekends  = ["trekking ⛰️", "badminton 🏸"]
 
     def say_hi(self):
-        # Unlike most engineers, I won't dodge small talk
-        return "Just drop a 'hi!' — let's connect 👋"
+        # unlike most engineers, I won't dodge small talk
+        return "just drop a 'hi!' 👋"
 ```
 
 ## 🚀 What I've shipped
 
 | Project | The short story | Impact |
 |---|---|---|
-| **☁️ CloudMart** (2025) | Multi-cloud AI storefront — AWS (EKS, Bedrock, Terraform), GCP (BigQuery, Looker), Azure sentiment — fronted by a Claude-powered assistant with RAG catalog retrieval | **Support costs −90%**, real-time sales analytics |
-| **🗣️ VisionVoice** (2024) | Image captioning (EfficientNet-B3 CNN encoder + RNN decoder) that *speaks* each caption aloud for visually impaired users | BLEU 0.20 · accessibility-first |
-| **🧮 Bonferroni Mean Pooling** (2023) | Novel pooling-layer aggregation for CNNs, benchmarked against classical pooling on medical images | **IEEE INDICON 2023 · MV Chauhan Best Paper** 🏅 |
+| **☁️ CloudMart** (2025) | Multi-cloud AI storefront on AWS (EKS, Bedrock, Terraform), GCP (BigQuery, Looker) and Azure, with a Claude-powered assistant doing RAG over the product catalog | Cut support costs by **90%**, real-time sales analytics |
+| **🗣️ VisionVoice** (2024) | Image captioning (EfficientNet-B3 encoder + RNN decoder) that speaks each caption out loud for visually impaired users | BLEU 0.20, accessibility-first |
+| **🧮 Bonferroni Mean Pooling** (2023) | A new pooling-layer aggregation for CNNs, benchmarked against classical pooling on medical images | **IEEE INDICON 2023, MV Chauhan Best Paper** 🏅 |
 
-**At the day job:** PySpark/Glue pipeline feeding 14 downstream consumers · internal Lambda tooling that cut pipeline config effort ~80% · 15+ high-severity incidents root-caused and retired for good.
+At the day job: a PySpark/Glue pipeline feeding 14 downstream consumers, internal Lambda tooling that cut pipeline config effort by about 80%, and 15+ high-severity incidents root-caused so they stay fixed.
 
 ## 🛠️ The toolkit
 
@@ -55,8 +55,8 @@ class Nihar:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**The AWS corner** — Glue · Lambda · Step Functions · S3 · EKS · Bedrock · Kinesis
-*(if it has an AWS logo, I've probably broken and fixed it)*
+**The AWS corner:** Glue, Lambda, Step Functions, S3, EKS, Bedrock, Kinesis
+*(if it has an AWS logo, I've probably broken it and fixed it)*
 
 ## 📊 The numbers (auto-updating, because of course they are)
 
@@ -75,13 +75,13 @@ class Nihar:
 
 ## ⛰️ When the laptop closes
 
-- **Trekking** — nothing debugs the brain like a mountain trail
-- **Badminton** — my reflexes are better on the court than in code review
-- **Gym** — 3x a week; consistency is a lifestyle, not just a CI/CD principle
+- **Trekking.** Nothing debugs the brain like a mountain trail.
+- **Badminton.** My reflexes are better on the court than in code review.
+- **Gym.** Three times a week. Consistency is a lifestyle, not just a CI/CD principle.
 
 ## 🤝 Let's talk
 
-`status: accepting_missions` — open to **AI Systems · Data · Cloud** roles. And I mean the small talk thing: pipelines, MLOps, trail recommendations, or just "hi" — all welcome.
+Open to **AI Systems, Data, and Cloud** roles. And I mean the small talk thing: pipelines, MLOps, trail recommendations, or just a "hi" all work.
 
 <div align="center">
 
