@@ -31,6 +31,7 @@ class Nihar:
 
 | Project | The short story | Impact |
 |---|---|---|
+| **📄 Resume Automation** (2025) | Agentic Claude Code pipeline that tailors my resume per job posting: a zero-token keyword matcher scores JD-to-resume gaps, Claude edits only the content inside an immutable LaTeX template, and deterministic quality gates check metrics, tone and length before compiling the PDF. No hallucinated bullets, no wrecked layout | Keyword match **81% → 94%**, one-page and ATS-safe by construction |
 | **☁️ CloudMart** (2025) | Multi-cloud AI storefront on AWS (EKS, Bedrock, Terraform), GCP (BigQuery, Looker) and Azure, with a Claude-powered assistant doing RAG over the product catalog | Cut support costs by **90%**, real-time sales analytics |
 | **🗣️ VisionVoice** (2024) | Image captioning (EfficientNet-B3 encoder + RNN decoder) that speaks each caption out loud for visually impaired users | BLEU 0.20, accessibility-first |
 | **🧮 Bonferroni Mean Pooling** (2023) | A new pooling-layer aggregation for CNNs, benchmarked against classical pooling on medical images | **IEEE INDICON 2023, MV Chauhan Best Paper** 🏅 |
