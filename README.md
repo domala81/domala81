@@ -89,7 +89,6 @@ Open to **AI Systems, Data, and Cloud** roles. And I mean the small talk thing: 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nihar-ai-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-domala/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihardomala.dev@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nihardomala)
 
 <img src="https://komarev.com/ghpvc/?username=domala81&style=flat-square&color=58A6FF" alt="Profile views" />
 
